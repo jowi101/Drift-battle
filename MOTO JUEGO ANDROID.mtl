@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.35440475)
+
+newmtl rueda
+kd 0 0 0
+illum 1
+
+newmtl barras delanteras
+kd 0 0 0.972549
+illum 1
+
+newmtl cuerpo de moto
+kd 0.262745 0.670588 0.729412
+illum 1
+
+newmtl parte de arriba
+kd 0.941177 0 0
+illum 1
+
+newmtl tubo de escape
+kd 0.25098 0.25098 0.25098
+illum 1
+
+newmtl manillar
+kd 0.607843 0.654902 0.0862745
+illum 1
+
+newmtl frenos
+kd 0.819608 0 0.792157
+illum 1
+

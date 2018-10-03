@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/movtouch.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/mov.cs">
     <Files>
-      <File FileName="Assets/Scenes/movtouch.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/movtouch.cs" Line="38" Column="38" />
+      <File FileName="Assets/Scenes/mov.cs" Line="47" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

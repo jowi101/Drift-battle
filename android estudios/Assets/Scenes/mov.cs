@@ -39,13 +39,10 @@ public class mov : MonoBehaviour
 		Touch[] myTouches = Input.touches;
 		for (int i = 0; i < Input.touchCount; i++);
 
-		if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Moved)
-		{
-			
+
 				transform.Rotate(Vector3.up, -turnSpeed * Time.deltaTime);
 
-
 				transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
-		}
+	
 	}
 }

@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scenes\mov.cs" />
+     <Compile Include="Assets\Scenes\movimiento alternativo.cs" />
      <Compile Include="Assets\Scenes\movtouch.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>

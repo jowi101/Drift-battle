@@ -87,6 +87,7 @@
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_POST_PROCESSING_STACK_V2
 'Assets/Scenes/mov.cs'
+'Assets/Scenes/movimiento alternativo.cs'
 'Assets/Scenes/movtouch.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
